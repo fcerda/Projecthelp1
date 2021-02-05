@@ -6,6 +6,9 @@ client/.eslintcache
 <<<<<<< HEAD
 =======
 >>>>>>> origin/main
+/node_modules
+node_modules
+/node_modules/
 server/server.js
 server/node_modules/async/.gitmodules
 server/node_modules/async/.npmignore
